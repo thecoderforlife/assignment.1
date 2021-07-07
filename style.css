@@ -30,10 +30,7 @@ a{
     margin: 5.5% 5% 2% 4%;
     width: 50%;
 }
-.btn-link:hover{
-    color: #000;
-    background: linear-gradient(#FFE985,#FA742B);   
-}
+
 .btn-link{
     text-decoration: none;
     margin-left: 5%;
@@ -59,7 +56,7 @@ a{
     margin-bottom: 70px;
 }
 .sec-banner{
-    background: url(images/shapes/middle-banner.png) no-repeat 100% ;
+    background: url(images/shapes/Group\ 8449.png) no-repeat 100% ;
     margin-bottom: 100px;   
 }
 .third-banner{
@@ -82,9 +79,7 @@ a{
     border: 5px solid rgb(248, 244, 244) ;
     box-shadow: 10px 10px 60px rgb(226, 221, 221);
 }
-.card:hover{
-    box-shadow: 10px 10px 20px grey;
-}
+
 .card{
     width: 380px;
     cursor: pointer;
